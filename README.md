@@ -23,6 +23,26 @@ Below you may find an index
 * hw7.docx --> fraud statistics
 * hw8.docx --> linear regressions on random walks
 * hw9.docx --> lazy Ehrenfest coin chain
+* lpendulum.m --> solve linear pendulum using second order FDA
+* pendulum.m --> solve nonlinear pendulum using second order FDA
+* plotex.m --> plotting functionality in octave
+* probs1.m --> showcase calculation using octave
+* probs2.m --> showcase calculation using octave
+* sintaylor.m --> truncated taylor expansion of sine
+* t_sintaylor.m --> test the above script
+* tfprintf.m --> write to console (instructor provided)
+* tfscan.m --> read data from file and import to GUI (instructor provided)
+* cores.m --> gravitational interaction of cores in Toomre model.
+* tcores.m --> test suite of above module
+* trueNstars.m --> extension of above code to include orbiting stars
+* tNstars.m --> test suite of above module 
+* mytoomre.m --> completed code
+* t1mytoomre.m --> part of the test suite [visualization utilities](http://laplace.physics.ubc.ca/210/Labs/ca-vis-lab.html#contents_item_2)
+* t2mytoomre.m
+* t3mytoomre.m
+* t4mytoomre.m
+* t5mytoomre.m
+* t6mytoomre.m
 
 
 ## Personal Side-Projects
